@@ -1,0 +1,15 @@
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\DIOTBancaria.exe
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\DIOTBancaria.deps.json
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\DIOTBancaria.runtimeconfig.json
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\DIOTBancaria.dll
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\ref\DIOTBancaria.dll
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\bin\Debug\net6.0\DIOTBancaria.pdb
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.csproj.AssemblyReference.cache
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.AssemblyInfoInputs.cache
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.AssemblyInfo.cs
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.dll
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\ref\DIOTBancaria.dll
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.pdb
+C:\Users\Ricardo Garcia\DigitalInnovationOne\DIOTBancaria\obj\Debug\net6.0\DIOTBancaria.genruntimeconfig.cache
