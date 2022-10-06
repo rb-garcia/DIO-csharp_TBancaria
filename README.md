@@ -1,4 +1,4 @@
-# csharp_DIO_TBancaria
+# DIO-csharp_TBancaria
 Criação de uma aplicação simples em .NET simulando transações bancárias.<br/>
 Desafio do Bootcamp .NET da Digital Innovation One com o objetivo de exemplificar o pensamento orientado a objetos.
 
